@@ -18,17 +18,17 @@
 // Override theme settings (see ../template/settings.scss)
 $backgroundColor: #fff;
 
-$mainColor: #222;
-$headingColor: #222;
+$mainColor: #1B1D1E;
+$headingColor: #1B1D1E;
 
 $mainFontSize: 38px;
 $mainFont: 'Roboto', Helvetica, sans-serif;
 $headingFont: 'Roboto', Helvetica, sans-serif;
 $headingTextShadow: none;
 $headingLetterSpacing: normal;
-$headingTextTransform: uppercase;
+$headingTextTransform: none;
 $headingFontWeight: 600;
-$linkColor: #2a76dd;
+$linkColor: #3E10AF;
 $linkColorHover: lighten( $linkColor, 15% );
 $selectionBackgroundColor: lighten( $linkColor, 25% );
 
