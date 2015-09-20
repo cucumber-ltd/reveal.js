@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Throw My Hands Up in the Air';
+    src: url('ThrowMyHandsUpInTheAir.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Throw My Hands Up in the Air';
+    src: url('ThrowMyHandsUpInTheAirBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}

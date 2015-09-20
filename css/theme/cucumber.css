@@ -4,6 +4,7 @@
  * Copyright (C) 2015 Cucumber Ltd, http://cucumber.io
  */
 @import url(../../lib/font/roboto/Roboto.css);
+@import url(../../lib/font/throw_my_hands_up_in_the_air/throw_my_hands_up_in_the_air.css);
 section.has-dark-background, section.has-dark-background h1, section.has-dark-background h2, section.has-dark-background h3, section.has-dark-background h4, section.has-dark-background h5, section.has-dark-background h6 {
   color: #fff; }
 
